@@ -37,6 +37,7 @@
 
 #define XILINX_ID  0x10ee
 #define ARISTA_ID  0x3475
+#define IBM_ID     0x1014
 #define INVALID_ID 0xffff
 
 namespace xrt_core {
